@@ -8,3 +8,5 @@ lazypredict
 statsmodels
 ipywidgets
 jupyter
+xgboost
+lightgbm
